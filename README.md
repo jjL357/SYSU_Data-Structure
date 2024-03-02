@@ -1,2 +1,2 @@
 # SYSU-Data-Structure
-SYSU数据结构课程作业
+中山大学计算机学院数据结构课程作业
